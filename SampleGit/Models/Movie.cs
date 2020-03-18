@@ -9,5 +9,8 @@ namespace SampleGit.Models
     {
         // add more content here later
 
+        public int MovieId { get; set; }
+
+
     }
 }
